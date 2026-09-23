@@ -1,0 +1,32 @@
+{
+  "heart": {
+    "pronunciation": "hart",
+    "cleanKill": true,
+    "damageMultiplier": 1.0
+  },
+  "brain": {
+    "pronunciation": "brayn",
+    "cleanKill": true,
+    "damageMultiplier": 1.0
+  },
+  "lungs": {
+    "pronunciation": "lungz",
+    "cleanKill": false,
+    "damageMultiplier": 0.7
+  },
+  "liver": {
+    "pronunciation": "liv-er",
+    "cleanKill": false,
+    "damageMultiplier": 0.5
+  },
+  "mana_core": {
+    "pronunciation": "mah-nah core",
+    "cleanKill": true,
+    "damageMultiplier": 1.5
+  },
+  "bio_reactor": {
+    "pronunciation": "bye-oh ree-ak-tor",
+    "cleanKill": true,
+    "damageMultiplier": 2.0
+  }
+}
